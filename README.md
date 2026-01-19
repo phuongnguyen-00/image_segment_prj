@@ -26,14 +26,14 @@ automated segmentation results against ground truth annotations from ten OCT ima
 #########################
 ## DIRECTORY STRUCTURE ##
 #########################
- # - ann_dir
-   ##     10 Ground truth images, expected results
-   # - img_dir
-   ##     10 Orginal images
-   # - Hoang_Phuong_Nguyen_Retinal_Cysts_Segmentation.ipynb
-   ##     Main notebook containing:
-   ### - Cyst segmentation pipeline
-   ### - Single-image walkthrough for each preprocessing step
-   ### - Batch-processing mode for all images
-   # - README file
-   ##      This file, Description of the project
+ ### - ann_dir
+   ####     10 Ground truth images, expected results
+### - img_dir
+   ####     10 Orginal images
+### - Hoang_Phuong_Nguyen_Retinal_Cysts_Segmentation.ipynb
+   ####     Main notebook containing:
+   - Cyst segmentation pipeline
+   - Single-image walkthrough for each preprocessing step
+   - Batch-processing mode for all images
+ ### - README file
+   ####      This file, Description of the project
